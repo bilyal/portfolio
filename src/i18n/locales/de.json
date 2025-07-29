@@ -1,0 +1,89 @@
+{
+	"nav": {
+		"home": "Startseite",
+		"workExperience": "Jobs",
+		"myProjects": "Projekte",
+		"contactMe": "Kontakt"
+	},
+	"pages": {
+		"home": {
+			"name": "Bilial Abdulhaniiev",
+			"specialization": "Full-Stack Web Developer",
+			"about": "Ich bin seit 2018 in der Webentwicklung tätig und habe an verschiedenen Projekten mitgewirkt — von Start-ups in der Frühphase bis hin zu eigenen experimentellen Anwendungen. Ich arbeite selbstständig, zielorientiert und lege großen Wert auf sauberen Code, durchdachtes UX und moderne Technologien. Ständige Weiterbildung und die Anwendung neuer Kenntnisse in der Praxis sind ein zentraler Bestandteil meiner Arbeit.\nTechnologien und Tools, mit denen ich gearbeitet habe:"
+		},
+		"workExperience": {
+			"title": "Berufserfahrung"
+		},
+		"myProjects": {
+			"title": "Meine Projekte",
+			"description": "Ich war an der Entwicklung mehrerer Start-up-Projekte beteiligt, von denen die meisten nicht öffentlich veröffentlicht wurden. Nachfolgend einige zentrale Aufgaben und technische Lösungen, an denen ich mitgewirkt habe. Einige Demo-Implementierungen dieser Aufgaben sind in meinem GitHub-Profil verfügbar.",
+			"tasks": [
+				"Erstellung von PostgreSQL-gespeicherten Prozeduren zur Optimierung der Datenverarbeitung",
+				"JSON-konfigurierbarer Fragebogen mit anpassbarem Layout (Abschnitte, Fragen) und Logik zur Auswertung der Antworten",
+				"Dynamisch konfigurierbares Formular mit Feldvalidierung und zusätzlicher Logik",
+				"Entwicklung eines benutzerdefinierten WYSIWYG-Editors",
+				"Visualisierung eines Stammbaums und Erstellung von Diagrammen",
+				"Mehrsprachige Lokalisierung von Anwendungen",
+				"Entwicklung benutzerdefinierter Audio- und Videoplayer sowie interaktiver Quiz"
+			],
+			"ownProjects": "In meiner Freizeit arbeite ich an eigenen Projekten, wodurch ich mit neuen Technologien experimentieren und meine fachlichen Fähigkeiten weiter ausbauen kann."
+		},
+		"contactMe": {
+			"title": "Kontakt aufnehmen",
+			"description": "Ich bin offen für neue Möglichkeiten, Zusammenarbeit oder einfach einen Ideenaustausch. Über die folgenden Links können Sie mich erreichen."
+		}
+	},
+	"techStack": {
+		"languages": "Sprachen & Markup",
+		"frontend": "Frontend-Frameworks & Bibliotheken",
+		"state": "State-Management",
+		"backend": "Backend & Datenbanken",
+		"testing": "Testing & Codequalität",
+		"infrastructure": "Infrastruktur & Tools",
+		"other": "Sonstiges"
+	},
+	"jobs": {
+		"thr": {
+			"period": "2020-laufend",
+			"description": "Ein Full-Service-Entwicklungsteam, das Projekte in den Bereichen Logistik, Fintech, IoT und Blockchain durchführt.",
+			"contribution": "Die Arbeit in diesem Unternehmen hat mir wertvolle Erfahrungen in technisch vielfältigen und interessanten Projekten gebracht. Ich habe mit erfahrenen und hilfsbereiten Kollegen zusammengearbeitet, und das Management hat ein positives und motivierendes Arbeitsumfeld geschaffen.\nIch habe Fähigkeiten entwickelt und entwickle sie weiter:",
+			"tasks": [
+				"Verwendung von Canvas API und Grafikbibliotheken",
+				"Entwicklung von JSON-konfigurierten Modulen (Fragebögen und dynamische Formulare mit Validierung)",
+				"Optimierung des Renderings und der Interaktion mit komplexen Formularen mit einer großen Anzahl von Feldern",
+				"Anpassung von Webanwendungen für mobile Geräte",
+				"TypeScript-Entwicklung",
+				"Entwicklung von benutzerdefinierten Video- und Audioplayern"
+			]
+		},
+		"oav": {
+			"period": "2023",
+			"description": "Ein zentrales Auktionsmanagement-Tool für Neu- und Gebrauchtwagenhändler, das die Suche und Bewertung von Fahrzeugen auf allen wichtigen Auktionen vereinfacht.",
+			"contribution": "Ich habe die Client-Seite gewartet und an der Entwicklung neuer Funktionen mitgewirkt. Übersetzte den Anwendungscode von JavaScript nach TypeScript, um Typisierung und Support zu verbessern.\nDie Arbeit an diesem Projekt half mir, meine Kommunikationsfähigkeiten zu verbessern und Erfahrungen mit groß angelegter Architektur zu sammeln."
+		},
+		"flu": {
+			"period": "2022-2023",
+			"description": "Größte Online-Sprachschule in Lateinamerika, mit Schwerpunkt auf Konversationsübungen und pädagogischer Zugänglichkeit.",
+			"contribution": "Entwicklung einer Plattform mit einer abgestuften Verkaufsstruktur und einem Empfehlungssystem.\nIch war an der Implementierung von Schnittstellenkomponenten, der Integration von PIX- und Stripe-Zahlungssystemen und der Implementierung der mehrsprachigen Lokalisierung beteiligt.\nDurch dieses Projekt konnte ich wertvolle Erfahrungen mit dem brasilianischen Markt und der Zahlungsinfrastruktur sammeln."
+		},
+		"fgen": {
+			"period": "2020-2022",
+			"description": "Ein technologieorientiertes Gesundheitsunternehmen, das genetische Beratung entwickelt und die Standards für Prävention, Einschätzung erblich bedingter Risiken und öffentliche Gesundheitsversorgung verbessert.",
+			"contribution": "Ich war an der Entwicklung von Schlüsselfunktionen der Plattform beteiligt:",
+			"tasks": [
+				"Implementierung von Seiten und Komponenten der Benutzeroberfläche",
+				"Erstellung von Stammbäumen unter Verwendung grafischer Bibliotheken",
+				"Erstellung von JSON-konfigurierbaren Fragebögen",
+				"Entwicklung eines Berichtseditors mit WYSIWYG-Oberfläche"
+			]
+		},
+		"raa": {
+			"period": "2018",
+			"description": "Right&Above bietet effektive IT-Lösungen, die Unternehmen dabei helfen, alle Aspekte ihres Geschäfts digital zu transformieren, Abläufe zu optimieren und die Entwicklung neuer Produkte und Dienstleistungen zu beschleunigen.",
+			"contribution": "Es wurde eine Webanwendung zur Verwaltung von Unternehmen und Mitarbeitenden mit einem rollenbasierten Zugriffssystem entwickelt.\nIch war an der Backend-Entwicklung und der Datenbankintegration beteiligt und schrieb gespeicherte Verfahren zur Optimierung der Datenverarbeitung."
+		}
+	},
+	"contact": {
+		"email": "E-Mail schreiben"
+	}
+}

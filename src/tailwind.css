@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+@import './assets/base.css';
+
+@config "../tailwind.config.ts";
+
+:root {
+  --color-background: #ffffff;
+  --color-card-bg: #f9f9f9;
+  --color-button-bg: #ebebeb;
+  --color-button-hover: #e8e8e8;
+  --color-border: #e4e4e4;
+  --color-text-primary: #000000;
+}
+
+.dark {
+  --color-background: #181818;
+  --color-card-bg: #202020;
+  --color-button-bg: #303030;
+  --color-button-hover: #454545;
+  --color-border: #606060;
+  --color-text-primary: #ffffff;
+}

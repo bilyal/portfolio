@@ -1,0 +1,97 @@
+{
+	"features": {
+		"title": "Features",
+		"items": [
+			"Fast",
+			"Reliable",
+			"Securet"
+		]
+	},
+	"nav": {
+		"home": "Home",
+		"workExperience": "Work",
+		"myProjects": "Projects",
+		"contactMe": "Contact"
+	},
+	"pages": {
+		"home": {
+			"name": "Bilial Abdulhaniiev",
+			"specialization": "Full-Stack Web Developer",
+			"about": "I’ve been working in web development since 2018. I have experience contributing to various projects — from early-stage startups to personal experimental apps. I'm self-driven and result-oriented, with a focus on clean code, thoughtful UX, and modern technologies. Constant learning and applying new knowledge in practice is a core part of how I work.\nTechnologies and tools I’ve worked with:"
+		},
+		"workExperience": {
+			"title": "Work experience"
+		},
+		"myProjects": {
+			"title": "My projects",
+			"description": "I participated in the development of several startup projects, most of which were not released publicly. Below are some key tasks and technical solutions I worked on. Some demo implementations of these tasks are available on my GitHub profile.",
+			"tasks": [
+				"Writing PostgreSQL stored procedures to optimize data processing",
+				"JSON-configurable survey tool with customizable layout (sections, questions) and response logic",
+				"Dynamically configurable form with field validation and additional logic",
+				"Development of a custom WYSIWYG editor",
+				"Visualization of a genealogical tree and graph construction",
+				"Multilingual localization of applications",
+				"Development of custom audio and video players, as well as interactive quizzes"
+			],
+			"ownProjects": "In my free time, I work on personal projects, which allows me to experiment with new technologies and deepen my professional skills."
+		},
+		"contactMe": {
+			"title": "Contact Me",
+			"description": "I'm always open to new opportunities, collaborations, or just an exchange of ideas. Feel free to reach out via the links below."
+		}
+	},
+	"techStack": {
+		"languages": "Languages & markup",
+		"frontend": "Frontend frameworks & libraries",
+		"state": "State management",
+		"backend": "Backend & databases",
+		"testing": "Testing & quality",
+		"infrastructure": "Infrastructure & tools",
+		"other": "Other"
+	},
+	"jobs": {
+		"thr": {
+			"period": "2020-Present",
+			"description": "A full-service development team implementing projects in logistics, fintech, IoT and blockchain.",
+			"contribution": "Working at the company has given me valuable experience in technically diverse and engaging projects. I collaborated with experienced and supportive colleagues, and the management provided a positive and motivating working environment.\nDuring this time, I developed and continue to strengthen the following skills:",
+			"tasks": [
+				"Using Canvas API and graphics libraries",
+				"Building JSON-configurable modules (e.g., surveys and dynamic forms with validation)",
+				"Optimizing rendering and interaction for complex forms with large number of fields",
+				"Adapting web applications for mobile devices",
+				"Developing in TypeScript",
+				"Creating custom audio and video players"
+			]
+		},
+		"oav": {
+			"period": "2023",
+			"description": "A centralized auction management tool for new and used car dealers that makes it easy to find and evaluate vehicles at all major auctions",
+			"contribution": "I supported the client side and participated in the development of new features. Refactored the application code from JavaScript to TypeScript, to improve typing and support.\nWorking on this project helped me improve my communication skills and gain experience with large-scale architecture."
+		},
+		"flu": {
+			"period": "2022-2023",
+			"description": "Largest online language school in Latin America, focused on conversational practice and educational accessibility.",
+			"contribution": "Developed a platform with a tiered sales structure and referral system.\nI participated in the implementation of UI components, integration with PIX and Stripe payment systems, and implemented multi-lingual localization.\nThis project gave me valuable experience with the Brazilian market and payment infrastructure."
+		},
+		"fgen": {
+			"period": "2020-2022",
+			"description": "A healthcare technology company developing genetic counseling and raising standards for prevention, hereditary risk assessment, and population health.",
+			"contribution": "I participated in the development of key functionality of the platform:",
+			"tasks": [
+				"implementation of pages and user interface components",
+				"construction of pedigrees using graphical libraries",
+				"created JSON-configurable questionnaires",
+				"developed report editor with WYSIWYG-interface"
+			]
+		},
+		"raa": {
+			"period": "2018",
+			"description": "Right&Above offers effective information technology solutions, helping companies digitally transform all aspects of their business, optimize operations and accelerate the development of new products and services.",
+			"contribution": "In development was a web application for company and employee management with a role-based access system.\nI was involved in backend development, database integration, and writing stored procedures to optimize data processing."
+		}
+	},
+	"contact": {
+		"email": "Send Email"
+	}
+}
